@@ -1,0 +1,21 @@
+{
+  "name": "clon_netflix",
+  "version": "1.0.0",
+  "description": "trabajo Luis Betanzos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Betanzos1997"
+  ],
+  "author": "LUIS EDUARDO BETANZOS IBAÑEZ",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mariadb": "^3.0.2"
+  }
+}
