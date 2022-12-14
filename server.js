@@ -8,6 +8,7 @@ class Server {
     this.port = process.env.PORT
     this.paths = {
         netfl:"/api/v1/clonenetflix" //ruta
+        
     }
 
     this.middlewares()
